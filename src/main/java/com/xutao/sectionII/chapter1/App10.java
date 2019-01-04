@@ -1,4 +1,4 @@
 package com.xutao.sectionII.chapter1;
 
-public class AppMain {
+public class App10 {
 }
